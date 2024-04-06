@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <div className={styles.container}>
             <h1>Contact App</h1>
-            <p><a href="http://botostart.ir">FateFul</a> | React.Js Full Course</p>
+            <p><a href="http://google.com">FateFul</a> | React.Js </p>
         </div>
     );
 };
